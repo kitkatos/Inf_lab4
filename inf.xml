@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>  
+	<student_data>
+		<isu>467871</isu>
+		<group_name>P3108</group_name>
+	</student_data>
+	<schedule>
+		<day>
+			<day_name>Понедельник</day_name>
+			<class>
+				<class_name>Программирование</class_name>
+				<class_type>Лабораторная</class_type>
+				<class_start_time>8:20</class_start_time>
+				<class_end_time>11:30</class_end_time>
+				<campus>Кронверкский пр., д.49, лит.А</campus>
+				<auditory>2117</auditory>
+				<teacher>Наумова Надежда Александровна</teacher>
+				<class_format>Очный</class_format>
+			</class>
+			<class>
+				<class_name>Дискретная математика(базовая)</class_name>
+				<class_type>Лекция</class_type>
+				<class_start_time>11:40</class_start_time>
+				<class_end_time>13:10</class_end_time>
+				<campus>Кронверкский пр., д.49, лит.А</campus>
+				<auditory>2403</auditory>
+				<teacher>Поляков Владимир Иванович</teacher>	
+				<class_format>Очный</class_format>				
+			</class>
+			<class>
+				<class_name>Дискретная математика(базовая)</class_name>
+				<class_type>Практика</class_type>
+				<class_start_time>13:30</class_start_time>
+				<class_end_time>15:00</class_end_time>
+				<campus>Кронверкский пр., д.49, лит.А</campus>
+				<auditory>2403</auditory>
+				<teacher>Поляков Владимир Иванович</teacher>	
+				<class_format>Очный</class_format>
+			</class>
+		</day>
+		<day>
+			<day_name>Суббота</day_name>
+			<class>
+				<class_name>Английский язык</class_name>
+				<class_type>Практика</class_type>
+				<class_start_time>11:40</class_start_time>
+				<class_end_time>15:00</class_end_time>
+				<campus>ул.Ломоносова, д.9, лит. М</campus>
+				<auditory>3210</auditory>
+				<teacher>Заманова Диана Анатольевна</teacher>	
+				<class_format>Очный</class_format>
+			</class>
+			<class>
+				<class_name>Информатика</class_name>
+				<class_type>Лабораторная</class_type>
+				<class_start_time>17:00</class_start_time>
+				<class_end_time>20:10</class_end_time>
+				<campus>Кронверкский пр., д.49, лит.А</campus>
+				<auditory>1328</auditory>
+				<teacher>Бострикова Дарья Константиновна</teacher>	
+				<class_format>Очный</class_format>				
+			</class>
+		</day>
+	</schedule>
+</body>
