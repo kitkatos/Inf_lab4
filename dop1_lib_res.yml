@@ -1,0 +1,54 @@
+body:
+  student_data:
+    isu: '467871'
+    group_name: P3108
+  schedule:
+  - day:
+    - day_name: Понедельник
+    - class:
+        class_name: Программирование
+        class_type: Лабораторная
+        class_start_time: '8:20'
+        class_end_time: '11:30'
+        campus: Кронверкский пр., д.49, лит.А
+        auditory: '2117'
+        teacher: Наумова Надежда Александровна
+        class_format: Очный
+    - class:
+        class_name: Дискретная математика(базовая)
+        class_type: Лекция
+        class_start_time: '11:40'
+        class_end_time: '13:10'
+        campus: Кронверкский пр., д.49, лит.А
+        auditory: '2403'
+        teacher: Поляков Владимир Иванович
+        class_format: Очный
+    - class:
+        class_name: Дискретная математика(базовая)
+        class_type: Практика
+        class_start_time: '13:30'
+        class_end_time: '15:00'
+        campus: Кронверкский пр., д.49, лит.А
+        auditory: '2403'
+        teacher: Поляков Владимир Иванович
+        class_format: Очный
+  - day:
+    - day_name: Суббота
+    - class:
+        class_name: Английский язык
+        class_type: Практика
+        class_start_time: '11:40'
+        class_end_time: '15:00'
+        campus: ул.Ломоносова, д.9, лит. М
+        auditory: '3210'
+        teacher: Заманова Диана Анатольевна
+        class_format: Очный
+    - class:
+        class_name: Информатика
+        class_type: Лабораторная
+        class_start_time: '17:00'
+        class_end_time: '20:10'
+        campus: Кронверкский пр., д.49, лит.А
+        auditory: '1328'
+        teacher: Бострикова Дарья Константиновна
+        class_format: Очный
